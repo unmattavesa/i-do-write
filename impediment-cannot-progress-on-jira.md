@@ -1,9 +1,7 @@
 ### Apr 18, 2016, at 12:18 PM
 
 ```html
-<h2>Example of code</h2>
 
-<pre>
     Hi Lead,
         
         In Abc* application, authentication is failing with local setup.
@@ -16,6 +14,5 @@
     Regards
     @unmattavesa
             
-        
-</pre>
+            
 ```
